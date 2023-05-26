@@ -20,10 +20,6 @@ export default function RootLayout({
       <body>
         {/* Header */}
         <Header/>
-        
-        {/* Prompt */}
-        <PromptInput />
-
 
         {/* Content */}
         {children}

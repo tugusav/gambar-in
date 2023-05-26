@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ["devnote.tech", "cdn-icons-png.flaticon.com"],
+        domains: ["devnote.tech", "cdn-icons-png.flaticon.com", "bit.ly"],
     }
 };
 
